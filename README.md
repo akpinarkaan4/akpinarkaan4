@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center"> Hi, I'm Kaan! </h1>
+<p align="center"> 
+  <i> blablabla </i>
+</p>
 
-<!--
-**akpinarkaan4/akpinarkaan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - bla bla
+  - bla bla
+  - bla bla
+
+---
+
+###
